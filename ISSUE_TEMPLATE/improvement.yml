@@ -1,0 +1,24 @@
+name: Improvement
+description: Suggest an improvement to an existing feature
+title: "[Improvement]: "
+labels:
+    - type:improvement
+
+body:
+    - type: textarea
+      id: current
+      attributes:
+          label: Current Behavior
+          description: Describe how the system currently works.
+
+    - type: textarea
+      id: proposed
+      attributes:
+          label: Proposed Improvement
+          description: Describe the enhancement.
+
+    - type: textarea
+      id: benefits
+      attributes:
+          label: Expected Benefits
+          description: Explain why this improvement is useful.

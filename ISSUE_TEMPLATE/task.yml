@@ -1,0 +1,24 @@
+name: Task
+description: Technical implementation work
+title: "[Task]: "
+labels:
+    - type:task
+
+body:
+    - type: textarea
+      id: description
+      attributes:
+          label: Description
+          description: Describe the technical task.
+
+    - type: textarea
+      id: steps
+      attributes:
+          label: Steps
+          description: List implementation steps.
+
+    - type: input
+      id: related
+      attributes:
+          label: Related Story / Issue
+          description: Link related issue.

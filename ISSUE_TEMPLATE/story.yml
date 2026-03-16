@@ -1,0 +1,42 @@
+name: User Story
+description: Feature requirement using Agile user story format
+title: "[Story]: "
+labels:
+    - type:story
+
+body:
+    - type: textarea
+      id: story
+      attributes:
+          label: User Story
+          description: Describe the feature using the format.
+          placeholder: |
+              As a [user]
+              I want [feature]
+              So that [benefit]
+      validations:
+          required: true
+
+    - type: textarea
+      id: description
+      attributes:
+          label: Description
+          description: Provide additional details.
+
+    - type: textarea
+      id: acceptance
+      attributes:
+          label: Acceptance Criteria
+          description: List conditions that must be satisfied.
+
+    - type: textarea
+      id: tasks
+      attributes:
+          label: Tasks
+          description: Implementation steps.
+
+    - type: input
+      id: epic
+      attributes:
+          label: Epic Link
+          description: Link the parent epic issue if applicable.
