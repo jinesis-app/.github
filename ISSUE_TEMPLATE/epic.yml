@@ -1,8 +1,7 @@
 name: Epic
 description: Large initiative containing multiple stories
 title: "EPIC: "
-labels:
-    - type:epic
+labels: ["epic"]
 
 body:
     - type: textarea

@@ -1,8 +1,7 @@
 name: Sub-task
 description: Small work item belonging to a larger task
 title: "[Sub-task]: "
-labels:
-    - type:subtask
+labels: ["subtask"]
 
 body:
     - type: textarea

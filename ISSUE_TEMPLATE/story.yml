@@ -1,8 +1,7 @@
 name: User Story
 description: Feature requirement using Agile user story format
 title: "[Story]: "
-labels:
-    - type:story
+labels: ["story"]
 
 body:
     - type: textarea

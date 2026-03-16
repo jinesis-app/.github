@@ -1,8 +1,7 @@
 name: Task
 description: Technical implementation work
 title: "[Task]: "
-labels:
-    - type:task
+labels: ["task"]
 
 body:
     - type: textarea
