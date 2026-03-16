@@ -99,7 +99,7 @@ We welcome contributions and improvements.
 Before contributing, please read the guidelines:
 
 ```
-.github-private/docs/CONTRIBUTING.md
+[.github-private/docs/CONTRIBUTING.md](https://github.com/jinesis-app/.github-private/blob/main/docs/CONTRIBUTING.md)
 ```
 
 This document explains:

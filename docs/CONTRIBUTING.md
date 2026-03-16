@@ -21,7 +21,7 @@ Available issue types:
 * **Feature** — Request for new functionality
 * **Improvement** — Enhancement to an existing feature
 * **Task** — Technical implementation work
-* **Sub-task** — Small unit of work related to a task
+* **Sub-Task** — Small unit of work related to a task
 * **Bug** — Unexpected behavior or error
 
 ---
