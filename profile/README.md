@@ -99,7 +99,7 @@ We welcome contributions and improvements.
 Before contributing, please read the guidelines:
 
 ```
-.github/docs/CONTRIBUTING.md
+.github-private/docs/CONTRIBUTING.md
 ```
 
 This document explains:

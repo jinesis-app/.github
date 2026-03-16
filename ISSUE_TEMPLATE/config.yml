@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
     - name: Documentation
-      url: https://github.com/jinesis-app/.github/blob/main/docs/CONTRIBUTING.md
+      url: https://github.com/jinesis-app/.github-private/blob/main/docs/CONTRIBUTING.md
       about: Please read the documentation before creating an issue.
